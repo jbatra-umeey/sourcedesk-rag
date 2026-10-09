@@ -1,0 +1,4 @@
+-r requirements.txt
+ragas>=0.3,<0.4
+langchain-openai>=0.3,<2
+deepeval>=3,<4
